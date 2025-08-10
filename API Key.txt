@@ -1,0 +1,3 @@
+Google Gemini API Key for the repo "quick-ai-chatbot"
+
+AIzaSyBFbnQ9sGB9rd42AhschiCHwgxJ1jv8AvI
